@@ -15,4 +15,5 @@ Web scraping is conducted responsibly and ethically, ensuring compliance with IM
 ## Acknowledgments
 We extend our appreciation to IMDb for providing access to valuable movie data and the open-source community for creating and maintaining the essential Python libraries utilized in this project.
 
-Note: Revisit the website and rewrite code as needed as the layout of the site may change.
+## Notes
+* Note: Revisit the website and rewrite code as needed as the layout of the site may change.
